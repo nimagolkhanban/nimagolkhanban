@@ -20,13 +20,13 @@ I am Nima Golkhanban, a tech enthusiast and aspiring developer. My journey in th
 
 During my learning journey, I've worked on several projects that showcase my skills and dedication. Some of my notable projects include:
 
-- [OnlineFood]([link-to-project1](https://github.com/nimagolkhanban/OnlineFood)): a platform to order food that created by another user
-- [CarZone]([link-to-project2](https://github.com/nimagolkhanban/CarZone)): a platform to rent any car you like .
+- [OnlineFood](https://github.com/nimagolkhanban/OnlineFood): a platform to order food that created by another user.
+- [CarZone](https://github.com/nimagolkhanban/CarZone): a platform to rent any car you like.
 
 Feel free to explore my GitHub repositories to learn more about my projects and contributions.
 
 ## Get in Touch
 
-I'm always excited to connect with fellow developers, collaborate on projects, or simply have a chat about technology. You can reach me via email at [ningoban@gmail.com](mailto:ningoban@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/nima-golkhanban-6b0006310?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJK7QKDd0SzWOMcpgnp1qbA%3D%3D)).
+I'm always excited to connect with fellow developers, collaborate on projects, or simply have a chat about technology. You can reach me via email at [ningoban@gmail.com](mailto:ningoban@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nima-golkhanban-6b0006310?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJK7QKDd0SzWOMcpgnp1qbA%3D%3D).
 
 Let's code and build the future together! 🚀
