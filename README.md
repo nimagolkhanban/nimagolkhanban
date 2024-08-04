@@ -12,9 +12,11 @@ I am Nima Golkhanban, a tech enthusiast and aspiring developer. My journey in th
 
 ## My Skills
 
-- **Programming Languages:** Python, HTML, CSS, JavaScript
-- **Frameworks:** Django
+- **Programming Language:** Python
+- **Frameworks:** Django, fastapi
 - **Version Control:** Git
+- **Databases:** redis, postresql, mongodb
+- **
 
 ## My Projects
 
